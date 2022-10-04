@@ -7,7 +7,7 @@
       "origin": "France",
       "capacity": "75CL",
       "alcohol": "15%", 
-      "name": "Mathie"
+      "name": "Mathie",
       "domaine": "Mathie & Claudine",
       "price": "15€", 
       "sale": "50",
@@ -39,7 +39,7 @@
       "origin": "Portugal",
       "capacity": "75CL",
       "alcohol": "7%", 
-      "name": "Portuga"
+      "name": "Portuga",
       "domaine": "Louis Louisa",
       "price": "25€", 
       "sale": "15",
@@ -55,7 +55,7 @@
       "origin": "Espagne",
       "capacity": "75CL",
       "alcohol": "8%", 
-      "name": "Espagnoa"
+      "name": "Espagnoa",
       "domaine": "Costa-Espagna",
       "price":  "20€", 
       "sale": "22",
@@ -71,7 +71,7 @@
       "origin": "France",
       "capacity": "75CL",
       "alcohol": "9%", 
-      "name": "Waterson"
+      "name": "Waterson",
       "domaine": "SonterWar",
       "price": "12€", 
       "sale": "36",
